@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Square" itemID="5004603e-00000016" symbolType="button" lastModified="1342464062">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AAA/RedSquare" itemID="5004813d-00000015" lastModified="1342472509">
   <timeline>
-    <DOMTimeline name="Square">
+    <DOMTimeline name="RedSquare">
       <layers>
         <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
@@ -9,7 +9,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor color="#FFFFCC"/>
+                      <SolidColor color="#FF0000"/>
                     </FillStyle>
                   </fills>
                   <strokes>
@@ -22,7 +22,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!760 760S6|-760 760!-760 760|-760 -760!-760 -760|760 -760!760 -760|760 760"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!590 -590S6|590 590!590 590|-590 590!-590 590|-590 -590!-590 -590|590 -590"/>
                   </edges>
                 </DOMShape>
               </elements>
