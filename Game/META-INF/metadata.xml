@@ -34,6 +34,12 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4701426D82CFE11181DCF5820C63891A</stEvt:instanceID>
+                  <stEvt:when>2012-07-16T15:39:48-03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Flash Professional CS6 - build 481</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
                   <stEvt:instanceID>xmp.iid:E61949DB82CFE111B4DA9C77BF861F26</stEvt:instanceID>
                   <stEvt:when>2012-07-16T15:39:48-03:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Flash Professional CS6 - build 481</stEvt:softwareAgent>
