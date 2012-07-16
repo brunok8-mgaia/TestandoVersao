@@ -1,4 +1,4 @@
-﻿package Classes 
+package Classes 
 {
 	import flash.display.MovieClip;
 	/**

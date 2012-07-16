@@ -1,13 +1,13 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <folders>
-          <DOMFolderItem name="AAA" itemID="5004852e-0000001a"/>
+          <DOMFolderItem name="Pasta1" itemID="50048452-00000019" isExpanded="true"/>
      </folders>
      <symbols>
-          <Include href="AAA/Circle.xml" loadImmediate="false" itemID="5004756d-00000013" lastModified="1342469485"/>
-          <Include href="AAA/RedSquare.xml" loadImmediate="false" itemID="5004813d-00000015" lastModified="1342472509"/>
-          <Include href="AAA/Square.xml" itemIcon="0" loadImmediate="false" itemID="5004603e-00000016" lastModified="1342464062"/>
           <Include href="Background.xml" itemIcon="0" loadImmediate="false" itemID="5004600e-00000011" lastModified="1342464014"/>
-          <Include href="GreenSquare.xml" loadImmediate="false" itemID="50048200-00000015" lastModified="1342472704"/>
+          <Include href="Circle.xml" loadImmediate="false" itemID="5004756d-00000013" lastModified="1342469485"/>
+          <Include href="Pasta1/GreenSquare.xml" loadImmediate="false" itemID="50048200-00000015" lastModified="1342472704"/>
+          <Include href="Pasta1/RedSquare.xml" loadImmediate="false" itemID="5004813d-00000015" lastModified="1342472509"/>
+          <Include href="Square.xml" itemIcon="0" loadImmediate="false" itemID="5004603e-00000016" lastModified="1342464062"/>
           <Include href="Star.xml" loadImmediate="false" itemID="50047627-00000017" lastModified="1342469671"/>
      </symbols>
      <timelines>
@@ -25,7 +25,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="AAA/Square" symbolType="button">
+                                        <DOMSymbolInstance libraryItemName="Square" symbolType="button">
                                              <matrix>
                                                   <Matrix tx="275" ty="200"/>
                                              </matrix>
@@ -33,7 +33,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="AAA/Circle" selected="true" centerPoint3DX="81.5" centerPoint3DY="96.5">
+					<DOMSymbolInstance libraryItemName="Circle" selected="true" centerPoint3DX="81.5" centerPoint3DY="96.5">
                                              <matrix>
                                                   <Matrix tx="81.5" ty="96.5"/>
                                              </matrix>
@@ -49,7 +49,7 @@
                                                   <Point x="-0.05"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="GreenSquare" centerPoint3DX="308.7" centerPoint3DY="239.75">
+                                        <DOMSymbolInstance libraryItemName="Pasta1/GreenSquare" centerPoint3DX="308.7" centerPoint3DY="239.75">
                                              <matrix>
                                                   <Matrix tx="308.7" ty="239.75"/>
                                              </matrix>
@@ -57,7 +57,7 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="AAA/RedSquare" selected="true" centerPoint3DX="105.5" centerPoint3DY="334.5">
+                                        <DOMSymbolInstance libraryItemName="Pasta1/RedSquare" centerPoint3DX="105.5" centerPoint3DY="334.5">
                                              <matrix>
                                                   <Matrix tx="105.5" ty="334.5"/>
                                              </matrix>
