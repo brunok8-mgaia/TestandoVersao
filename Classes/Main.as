@@ -1,4 +1,4 @@
-package Classes 
+﻿package Classes 
 {
 	import flash.display.MovieClip;
 	/**
@@ -10,7 +10,7 @@ package Classes
 		
 		public function Main() 
 		{
-			trace("Testando");
+			trace("Te1s1t1a1n1do");
 		}
 		
 	}
