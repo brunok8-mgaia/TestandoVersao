@@ -2,6 +2,7 @@
      <symbols>
           <Include href="Background.xml" itemIcon="0" loadImmediate="false" itemID="5004600e-00000011" lastModified="1342464014"/>
           <Include href="Circle.xml" loadImmediate="false" itemID="5004756d-00000013" lastModified="1342469485"/>
+          <Include href="RedSquare.xml" loadImmediate="false" itemID="5004813d-00000015" lastModified="1342472509"/>
           <Include href="Square.xml" itemIcon="0" loadImmediate="false" itemID="5004603e-00000016" lastModified="1342464062"/>
           <Include href="Star.xml" loadImmediate="false" itemID="50047627-00000017" lastModified="1342469671"/>
      </symbols>
@@ -28,20 +29,28 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-					<DOMSymbolInstance libraryItemName="Circle" selected="true" centerPoint3DX="81.5" centerPoint3DY="96.5">
+                                        <DOMSymbolInstance libraryItemName="Circle" centerPoint3DX="119.5" centerPoint3DY="63.5">
                                              <matrix>
-                                                  <Matrix tx="81.5" ty="96.5"/>
+                                                  <Matrix tx="119.5" ty="63.5"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Star" selected="true" centerPoint3DX="469" centerPoint3DY="62.2">
+                                        <DOMSymbolInstance libraryItemName="Star" centerPoint3DX="481" centerPoint3DY="47.2">
                                              <matrix>
-                                                  <Matrix tx="469.05" ty="62.2"/>
+                                                  <Matrix tx="481.05" ty="47.2"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="RedSquare" selected="true" centerPoint3DX="105.5" centerPoint3DY="334.5">
+                                             <matrix>
+                                                  <Matrix tx="105.5" ty="334.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>
