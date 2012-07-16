@@ -15,7 +15,7 @@
       <rdf:Description rdf:about=""
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
-         <xmpMM:InstanceID>xmp.iid:4869A7EE89CFE11186BF83CBFC9054B3</xmpMM:InstanceID>
+         <xmpMM:InstanceID>xmp.iid:1A870F6889CFE1119118A4654E1F75C7</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:CB4737BF75CFE111B258DC9610692C5B</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:CB4737BF75CFE111B258DC9610692C5B</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -45,6 +45,12 @@
                   <stEvt:softwareAgent>Adobe Flash Professional CS6 - build 481</stEvt:softwareAgent>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1A870F6889CFE1119118A4654E1F75C7</stEvt:instanceID>
+                  <stEvt:when>2012-07-16T15:39:48-03:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Flash Professional CS6 - build 481</stEvt:softwareAgent>
+               </rdf:li>
+		<rdf:li rdf:parseType="Resource">
                   <stEvt:action>created</stEvt:action>
                   <stEvt:instanceID>xmp.iid:4869A7EE89CFE11186BF83CBFC9054B3</stEvt:instanceID>
                   <stEvt:when>2012-07-16T15:39:48-03:00</stEvt:when>
